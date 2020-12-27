@@ -1,6 +1,6 @@
 # MNIST Digit Recognizer
 
-Over the break, I want to make a demo app for one of my Machine Learning project so I decided to start with MNIST, something classic that I have built quite few time. This is a classic MNIST problem, handwritten digit recognizer. I achieved accuracy score of 99.7%. 
+Over the break, I want to make a demo app for one of my Machine Learning project so I decided to start with MNIST, something classic that I have built quite few time. This is a classic MNIST problem, handwritten digit recognizer.  
 
 <img alt="MNIST Pic" src="background_pic.png" style="height: 50vh; display: block; margin: 1em auto;">
 
