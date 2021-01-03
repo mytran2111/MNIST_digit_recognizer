@@ -6,6 +6,6 @@ Over the break, I want to make a demo app for one of my Machine Learning project
 
 I built my model architecture with 5 layers convolution neural network. I also implmeneted additional data generation using a image data geneartor from the Keras library and experimented with several data preprocessing methods, with 30 eproch, a final testing accuracy of 99.7% was acheived.
 
-The most exciting part for me in this project is to write a website allow user to submit handwritten image and see the prediction. I used Tensorflow and also html, javascript, css to create my website. 
+The most exciting part for me in this project is to write a website allow user to submit handwritten image and see the prediction. I used Tensorflow and also html, javascript, css to create my web demo for prediction. Try it out [here](https://mytran2111.github.io/DigitRecognizer_web_demo/) 
 
 <img alt="A website" src="MNIST_web_demo.PNG" style="height: 50vh; display: block; margin: 1em auto;">
